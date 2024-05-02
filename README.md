@@ -19,10 +19,10 @@ Aprox. 00:27s
 ## Ferramentas utilizadas:
 
 * HTML -
-  Com o HTML foi escrito paragráfos, titúlos, links, enfim, todo o escopo do site.
+  Com o HTML foi escrito paragráfos, títulos, links, enfim, todo o escopo do site.
 
 * CSS -
-  Com CSS foi utilizado para estilizar a aparência da cor de fundo, cor de fonte, fontes, tamanho dos titúlos, paragráfos e fontes. Etc.
+  Com CSS foi utilizado para estilizar a aparência da cor de fundo, cor de fonte, fontes, tamanho dos títulos, paragráfos e fontes. Etc.
 
 * Flex-box -
   Com o Flex-Box foi utilizado para dá um sentido a tudo que foi criado com alinhamentos de colunas, espaçamentos, centralizações, assim, nenhum elemento fica desalinhado e causa certa estranheza.

@@ -27,6 +27,10 @@ Aprox. 00:27s
 * Flex-box -
   Com o Flex-Box foi utilizado para dá um sentido a tudo que foi criado com alinhamentos de colunas, espaçamentos, centralizações, assim, nenhum elemento fica desalinhado e causa certa estranheza.
 
+## Acesso ao site
+
+### Link: https://portfolio-dun-nine-24.vercel.app/
+
 ## Feito por:
 
 ### Leonardo de Oliveira - Projeto final
